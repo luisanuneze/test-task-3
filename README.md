@@ -27,7 +27,7 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 **Hint2.** You don't need to write any functionality.
 
-**Hint3.** You don't need to write any working navigation.
+**Hint3.** You don't need to write any working navigation, but you need to write all files that would be required to make the navigation possible.
 
 **Hint4.** You don't need to write any html elements.
 
