@@ -1,0 +1,2 @@
+<!-- Map base -->
+<!-- Legend section -->
